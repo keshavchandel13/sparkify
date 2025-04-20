@@ -62,7 +62,7 @@ const ContactForm = () => {
       </div>
 
       {/* Contact Form */}
-      <div className="relative z-10 w-full max-w-2xl bg-black/70 backdrop-blur-md p-10 rounded-xl shadow-xl">
+      <div className="relative z-10 w-full max-w-2xl   p-10 rounded-xl shadow-xl">
         <h2 className="text-4xl md:text-5xl text-center font-extrabold text-white mb-8">
           Contact Us
         </h2>
