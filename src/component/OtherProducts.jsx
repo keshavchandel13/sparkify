@@ -6,15 +6,15 @@ const products = [
     img: '/printedcushions.webp',
   },
   {
-    title: 'Custom Water Bottles',
-    img: '/waterBottle.webp',
+    title: 'Kids Bags',
+    img: 'https://m.media-amazon.com/images/I/41C+wMk-mbS._AC_UY1100_.jpg',
   },
   {
     title: 'Photo Key Chains',
     img: '/keychain.webp',
   },
   {
-    title: 'Customized Mouse Pads',
+    title: 'Magic Lamps',
     img: '/mousepad.jpg',
   },
   {
@@ -22,8 +22,8 @@ const products = [
     img: '/lamp.jpg',
   },
   {
-    title: 'Pen Holder',
-    img: '/penholder.jpg',
+    title: 'Clock Mirror',
+    img: 'https://5.imimg.com/data5/SELLER/Default/2024/8/446310563/EB/IH/SJ/186062306/customized-personalized-wall-clock.png',
   },
 ];
 

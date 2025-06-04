@@ -8,9 +8,9 @@ import Links from "./component/Links";
 import ContactForm from "./component/ContactForm";
 import QuickLinks from "./component/QuickLinks";
 import Rights from "./component/Rights";
+import ImageSlider from './component/ImageSlider';
 
 // Lazy-loaded route components
-const ImageSlider = lazy(() => import("./component/ImageSlider"));
 const MidBody = lazy(() => import("./component/MidBody"));
 const Services = lazy(() => import("./component/Services"));
 const ContactHead = lazy(() => import("./component/ContactHead"));
